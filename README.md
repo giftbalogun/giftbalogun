@@ -1,4 +1,6 @@
 ### Hi there 👋
+## 🔭 `👦 Md. Omar Faruk` |  `🏠 Dhaka, Bangladesh` [![Github](https://img.shields.io/github/followers/giftbalogun?label=Follow&style=social)](https://github.com/giftbalogun)&nbsp; [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=giftbalogun)](https://github.com/IamOmaR22)
+
 
 <!--
 **giftbalogun/giftbalogun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

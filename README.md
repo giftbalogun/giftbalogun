@@ -1,5 +1,5 @@
 ### Hi there 👋
-## 🔭 `👦 Gift Balogun` |  `🏠 Lagos Nigeria` [![Github](https://img.shields.io/github/followers/giftbalogun?label=Follow&style=social)](https://github.com/giftbalogun)&nbsp; [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=giftbalogun)](https://github.com/IamOmaR22)
+## Hi there I'm `👦 Gift Balogun` |  `🏠 Lagos Nigeria` [![Github](https://img.shields.io/github/followers/giftbalogun?label=Follow&style=social)](https://github.com/giftbalogun)&nbsp; [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=giftbalogun)](https://github.com/IamOmaR22)
 
 
 <!--

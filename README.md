@@ -17,6 +17,11 @@ A Full Stack Web Developer with Experience in Python, Django, PostgreSQL, MYSQL 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=Java)
 
+
+## ABOUT ME 👋 
+
+- 🔭 I’m currently working on My Compan Project
+- 🌱 I’m currently learning Node.js
 <!--
 **giftbalogun/giftbalogun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -18,7 +18,7 @@ A Full Stack Web Developer with Experience in Python, Django, PostgreSQL, MYSQL 
 ![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=Java)
 
 
-## ABOUT ME 👋 
+## My Updates 👋 
 
 - 🔭 I’m currently working on My Company Project
 - 🌱 I’m currently learning Node.js

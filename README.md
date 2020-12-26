@@ -20,7 +20,7 @@ A Full Stack Web Developer with Experience in Python, Django, PostgreSQL, MYSQL 
 
 ## ABOUT ME 👋 
 
-- 🔭 I’m currently working on My Compan Project
+- 🔭 I’m currently working on My Company Project
 - 🌱 I’m currently learning Node.js
 <!--
 **giftbalogun/giftbalogun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

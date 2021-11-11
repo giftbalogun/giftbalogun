@@ -22,8 +22,8 @@ A Full Stack Web Developer with Experience in Python, Django, PostgreSQL, MYSQL 
 
 - 🔭 I’m currently working on My Company Project
 - 🌱 I’m currently learning Node.js
-- - 💬 Ask me about anything.
-- - 📫 How to reach me: balogunigift@gmail.com
+- 💬 Ask me about anything.
+- 📫 How to reach me: balogunigift@gmail.com
 <!--
 **giftbalogun/giftbalogun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

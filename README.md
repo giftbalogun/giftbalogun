@@ -1,5 +1,5 @@
 ### Hi there and Welcome 👋
-## Hi there I'm `👦 Gift Balogun` |  `🏠 Lagos, Nigeria` [![Github](https://img.shields.io/github/followers/giftbalogun?label=Follow&style=social)](https://github.com/giftbalogun)&nbsp;
+## I'm `👦 Gift Balogun` |  `🏠 Lagos, Nigeria` [![Github](https://img.shields.io/github/followers/giftbalogun?label=Follow&style=social)](https://github.com/giftbalogun)&nbsp;
 
 
 ## ABOUT ME 👋 

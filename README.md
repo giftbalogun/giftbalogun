@@ -1,11 +1,14 @@
-### Hi there and Welcome 👋
+### Hey you Welcome 👋
 ## I'm `👦 Gift Balogun` |  `🏠 Lagos, Nigeria` [![Github](https://img.shields.io/github/followers/giftbalogun?label=Follow&style=social)](https://github.com/giftbalogun)&nbsp;
 
 
 ## ABOUT ME 👋 
 
-I am a Full Stack Web & App Developer, I have skills specialized in PHP, Python, Flutter, Laravel Framework, HTML, CSS, Bootstrap, and SQL and I love being challenged and learning new things in technology. I studied Telecommunication Engineering and hoped to focus on Network Design and Management. I am a lover of anything in Technology, from the smallest to the largest tech in the world, I develop myself in skills when I am not occupied. 
-That's Me!
+As an ambitious and dynamic individual, I have established a career path in technology focusing on backend development. With a Bachelor's degree in Telecommunication Engineering from the Bells University of Technology and a wealth of experience in web development, you possess a solid technical background and expertise in PHP, Laravel, Python, Django, JavaScript, and WordPress. Your passion for technology and programming is evident in your professional qualifications, including your Cisco Certified Network Associate and data analysis certifications.
+
+I can work under pressure, effectively communicate with colleagues and clients, and identify and resolve problems quickly and efficiently makes me a valuable asset to any team. You have also demonstrated strong leadership qualities as a Collation Officer and House Prefect in your secondary school, Student Network Manager, and Head of the Technical Crew at Faith Academy Goshen.
+
+In addition to my technical skills, I have a strong interest in digital marketing and have taken the initiative to develop my skills in this area. I am adaptable and flexible, always willing to learn and improve. I am excited about the opportunity to work in a challenging and dynamic environment where you can utilize your skills and knowledge to contribute to the organization's success.
 
 
 ## Technology Stacks
@@ -26,17 +29,3 @@ That's Me!
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about anything.
 - 📫 How to reach me: balogunigift@gmail.com
-<!--
-**giftbalogun/giftbalogun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -6,16 +6,7 @@
 
 As an ambitious and dynamic individual, I have established a career path in technology focusing on backend development. With a Bachelor's degree in Telecommunication Engineering from the Bells University of Technology and a wealth of experience in web development, you possess a solid technical background and expertise in PHP, Laravel, Python, Django, JavaScript, and WordPress. Your passion for technology and programming is evident in your professional qualifications, including your Cisco Certified Network Associate and data analysis certifications.
 
-<p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=giftbalogun&theme=tokyonight)](https://git.io/streak-stats)
-</p>
-
-<p align="center">
-    <a href="https://github.com/joemires/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Best Nyah's streak" src="[https://github-readme-streak-stats.herokuapp.com/?user=joemires&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0](https://streak-stats.demolab.com?user=giftbalogun&theme=tokyonight)"/>
-    </a>
-</p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=giftbalogun&theme=cobalt&border_radius=4.9)](https://git.io/streak-stats)
 
 I can work under pressure, effectively communicate with colleagues and clients, and identify and resolve problems quickly and efficiently makes me a valuable asset to any team. You have also demonstrated strong leadership qualities as a Collation Officer and House Prefect in your secondary school, Student Network Manager, and Head of the Technical Crew at Faith Academy Goshen.
 

@@ -6,6 +6,8 @@
 
 As an ambitious and dynamic individual, I have established a career path in technology focusing on backend development. With a Bachelor's degree in Telecommunication Engineering from the Bells University of Technology and a wealth of experience in web development, you possess a solid technical background and expertise in PHP, Laravel, Python, Django, JavaScript, and WordPress. Your passion for technology and programming is evident in your professional qualifications, including your Cisco Certified Network Associate and data analysis certifications.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=giftbalogun&theme=tokyonight)](https://git.io/streak-stats)
+
 I can work under pressure, effectively communicate with colleagues and clients, and identify and resolve problems quickly and efficiently makes me a valuable asset to any team. You have also demonstrated strong leadership qualities as a Collation Officer and House Prefect in your secondary school, Student Network Manager, and Head of the Technical Crew at Faith Academy Goshen.
 
 In addition to my technical skills, I have a strong interest in digital marketing and have taken the initiative to develop my skills in this area. I am adaptable and flexible, always willing to learn and improve. I am excited about the opportunity to work in a challenging and dynamic environment where you can utilize your skills and knowledge to contribute to the organization's success.

@@ -10,6 +10,13 @@ As an ambitious and dynamic individual, I have established a career path in tech
 [![GitHub Streak](https://streak-stats.demolab.com?user=giftbalogun&theme=tokyonight)](https://git.io/streak-stats)
 </p>
 
+<p align="center">
+    <a href="https://github.com/joemires/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Best Nyah's streak" src="[https://github-readme-streak-stats.herokuapp.com/?user=joemires&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0](https://streak-stats.demolab.com?user=giftbalogun&theme=tokyonight)"/>
+    </a>
+</p>
+
+
 I can work under pressure, effectively communicate with colleagues and clients, and identify and resolve problems quickly and efficiently makes me a valuable asset to any team. You have also demonstrated strong leadership qualities as a Collation Officer and House Prefect in your secondary school, Student Network Manager, and Head of the Technical Crew at Faith Academy Goshen.
 
 In addition to my technical skills, I have a strong interest in digital marketing and have taken the initiative to develop my skills in this area. I am adaptable and flexible, always willing to learn and improve. I am excited about the opportunity to work in a challenging and dynamic environment where you can utilize your skills and knowledge to contribute to the organization's success.

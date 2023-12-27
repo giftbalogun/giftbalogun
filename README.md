@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gift Balogun
 ====================================================================================================================================
 
-Full Stack App & Web Developer
+Full Stack Developer (App & Web)
 ------------------------------
 
 As an ambitious and dynamic individual, I have established a career path in technology focusing on backend development. With a Bachelor's degree in Telecommunication Engineering from the Bells University of Technology and a wealth of experience in web development, you possess a solid technical background and expertise in PHP, Laravel, Python, Django, JavaScript, and WordPress. Your passion for technology and programming is evident in your professional qualifications, including your Cisco Certified Network Associate and data analysis certifications.

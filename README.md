@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer (App & Web)
 ------------------------------
 
-As an ambitious and dynamic individual, I have established a career path in technology focusing on backend development. With a Bachelor's degree in Telecommunication Engineering from the Bells University of Technology and a wealth of experience in web development, you possess a solid technical background and expertise in PHP, Laravel, Python, Django, JavaScript, and WordPress. Your passion for technology and programming is evident in your professional qualifications, including your Cisco Certified Network Associate and data analysis certifications.
+As an ambitious and dynamic individual, I have established a career path in technology focusing on backend development. With a wealth of experience in web development, you possess a solid technical background and expertise in PHP, Laravel, Python, Django, JavaScript, and WordPress. Your passion for technology and programming is evident in your professional qualifications, including your Cisco Certified Network Associate and data analysis certifications.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [Potfolio](http://giftbalogun.name.ng)

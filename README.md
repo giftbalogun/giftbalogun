@@ -12,6 +12,7 @@ As an ambitious and dynamic individual, I have established a career path in tech
 * 🚀  I'm currently working on [Building A Compnay](http://royalbv.name.ng)
 * 🧠  I'm learning React Js.
 * 🤝  I'm open to collaborating on Open Source, Projects and Company Work
+* Writer [![CoderLegion](https://coderlegion.com/cl_badge_logo1.png) Join the CoderLegion Community](https://coderlegion.com/user/Gift+Balogun)
 
 <a href="https://www.github.com/giftbalogun" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/giftbalogun?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/am_de_one" target="_blank" rel="noreferrer"><img
